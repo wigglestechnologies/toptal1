@@ -1,0 +1,92 @@
+div { color: black; font-family: Dinot, Verdana, Geneva, sans-serif; font-weight: normal; font-style: normal;  }
+.menu-top-cell {
+	font-family: Dinot, Verdana, Geneva, sans-serif;
+	text-align:left;
+	vertical-align:middle;
+	text-decoration: none;
+	border: 1pt;
+	margin-top: 1px;
+	overflow: visible;
+	padding-top: 0pt;
+	padding-right: 1px;
+	padding-bottom: 0pt;
+	padding-left: 1px;
+	background-color: rgba(255,255,255,1.00);
+	color:rgb(0,0,0);
+}
+.menu-lower-cell {
+	font-family: Dinot, Verdana, Geneva, sans-serif;
+	text-align:center;
+	vertical-align:middle;
+	border-style:solid;
+	border-color: #000000;
+	border-top-width: 0pt;
+	border-right-width:1pt;
+	border-bottom-width: 1pt;
+	border-left-width: 1pt;
+	margin: 0pt;
+	padding-top: 0pt;
+	padding-right: 1px;
+	padding-bottom: 0pt;
+	padding-left: 1px;
+	background-color: rgb(255,255,255);
+	color:rgb(0,0,0);
+}
+.menu-table {
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+	top: -2px;
+	z-index: 3;
+	text-indent: 4pt;
+	border: 0pt solid #000000;
+	background-color: rgb(255,255,255);
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	font-size: 18px;
+}
+
+.menu-anchor {
+	font-family: Dinot, Verdana, Geneva, sans-serif;
+	background-color: rgb(255,255,255);
+	color: rgb(0,0,0);
+	text-decoration: none;
+	background-position: center;
+	vertical-align: middle;
+	text-align: center;
+	font-weight: lighter;
+}
+.menu-indented-anchor {
+	font-family: Dinot, Verdana, Geneva, sans-serif;
+	color: rgb(0,0,0);
+	text-decoration: none;
+	display: block;
+	background-position: center;
+	vertical-align: middle;
+	text-align: center;
+	margin-left: 0pt;
+	margin-top: 0pt;
+	background-color: rgb(255,255,255);
+}
+.menu-bold-anchor {
+	font-family: Dinot, Verdana, Geneva, sans-serif;
+	color:rgb(0,0,0);
+	text-decoration: none;
+	display: block;
+	background-position: center;
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 0pt;
+	background-color: rgb(255,255,255);
+}
+.menu-cell {
+	font-family: Dinot, Verdana, Geneva, sans-serif;
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: bottom;
+	background-color: rgb(255,255,255);
+	background-position: center center;
+	position: relative;
+	padding: 0pt;
+}
